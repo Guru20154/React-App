@@ -32,7 +32,7 @@ const Navbar = () => {
         height: '60px', 
       }}
     >
-      <Typography variant="h6">Uplaince</Typography>
+      <Typography variant="h6">Upliance</Typography>
 
     
       <Box
